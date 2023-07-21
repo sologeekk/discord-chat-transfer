@@ -97,6 +97,12 @@ https://cryptii.com/
 
 <br />
 
+## Usage
+
+* No Requirements, just put the file `DiscordParser.py` in the same directory as your category folders are and in terminal type: `python .\DiscordParser.py`
+
+<br />
+
 ## To-Dos
 - [ ] Add some Extra Automation to automate the process of manually saving each file, naming it with the Capital format of the first char of it's related Category and Automating the process of copy pasting it to new Discord Channels
 - [ ] Add support for other File formats such as .html
