@@ -9,15 +9,17 @@ After exporting your Server Channels Chat Data using this amazing [Discord Chat 
 <br />
 
 ## Workflow
-![eb64121bed8e05c3bd6e6c244e2e8f74.png](:/36d9addd78d34210b93079360b9eec7d)
+![image](https://github.com/sologeekk/discord-chat-transfer/assets/74742927/b8c64c36-f13b-4145-b922-c1f92f6afeff)
+
 
 <br />
 
 ## Example with Instructions
 1. I have A Server with such Categories (Hacking and General Text Chatting) and Related channels:
 
-![b0a4c62e224f2022ca1301e8005c5d5b.png](:/517da6f5c0304ff4a3d1ec8a5238aae4)
-![0a8457a2b03fd94dda7b1a3c8e37a9de.png](:/8598b1c268cf47eb9734865bd90dc013)
+![image](https://github.com/sologeekk/discord-chat-transfer/assets/74742927/82304093-be20-475a-b900-ad7f4298863c)
+![image](https://github.com/sologeekk/discord-chat-transfer/assets/74742927/ba1587a5-58b6-4da7-98d3-4ee31bf3b040)
+
 
 2. Using the [Discord Chat Exporter](https://github.com/Tyrrrz/DiscordChatExporter) Tool by @Tyrrrz, I have **Manually** exported each of the Channels Chat in `json` format by assiginng them names that will start with a `Capital Alphabet of their relevant Category + a dash + The name of the Channel` for example: `"G-Freechat.json"`. Under the related category folder we have:
 ```powershell
